@@ -1,6 +1,5 @@
 ---
 title: Introduction to version control with Git
-text: Gentle Intro to git and GitHub.
 location: Summerlee Science Complex 3317
 link: https://github.com/Guelph-R-Study-Group/studyGroup/issues/1
 date: 2023-05-19
