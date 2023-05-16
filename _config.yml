@@ -3,7 +3,7 @@
 
 #Step 1: give your study group a name and a short description,
 #and choose a language from the options in the _data directory:
-title: R Study Group
+title: Guelph R Study Group
 description: "R Study Group at the University of Guelph"
 language: en
 
