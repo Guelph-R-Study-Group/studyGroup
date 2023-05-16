@@ -1,6 +1,20 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Joey Bernhardt
+  affiliation: Integrative Biology, University of Guelph
+  github: JoeyBernhardt
   interests:
-    - Programming
+    - Ecology
+    - Open Science
+    
+ - name: Quinn Webber
+  affiliation: Integrative Biology, University of Guelph
+  github: qwebber
+  interests:
+    - Ecology
+    - Open Science
+  
+  - name: Karl Cottenie
+  affiliation: Integrative Biology, University of Guelph
+  github: 'karl-cottenie'
+  interests:
+    - Ecology
     - Open Science
