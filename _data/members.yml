@@ -5,10 +5,15 @@
     - Ecology
     - Open Science
     
- - name: Quinn Webber
+- name: Quinn Webber
   affiliation: Integrative Biology, University of Guelph
   github: qwebber
   interests:
     - Ecology
     - Open Science
-
+- name: Karl Cottenie
+  affiliation: Integrative Biology, University of Guelph
+  github: 'karl-cottenie'
+  interests:
+    - Ecology
+    - Open Science
